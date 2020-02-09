@@ -1,3 +1,3 @@
 ![redhydra](others/RedHydra2.0.png)
 
-[Info](#info)
+##Welcome to RedHydra's Github Page!
