@@ -1,6 +1,6 @@
 ![redhydra](others/RedHydra2.0.png)
 
-## Welcome to RedHydra's Github Page!
+## Welcome to RedHydra's Official Github Repository
 
-## Info
-* This was Created with python2.7 not python3
+## Information
+* This Repository was created with python2.7 Only
