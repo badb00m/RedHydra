@@ -27,7 +27,7 @@ cd RedHydraWindows
 python Install.py
 ```
 ## Credits
-xanthe.#0009 (Discord-Tag)
-https://github.com/xannyyyy?tab=repositories
-H4wk (Crew)
-wop#1337 For beta-testing (Discord-Tag)
+* xanthe.#0009 (Discord-Tag)
+* https://github.com/xannyyyy?tab=repositories
+* H4wk (Crew)
+* wop#1337 For beta-testing (Discord-Tag)
