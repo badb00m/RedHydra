@@ -1,4 +1,4 @@
-## Welcome to RedHydra's Official Windows Github Repository
+## Welcome to RedHydra's Official Github Repository
 
 ![redhydra](others/RedHydra2.0.png)
 
@@ -12,13 +12,13 @@
 * 6. Run install.py before executing
 * 7. Before executing, Install python2.7 only. 3 Isn't supported yet!
 * 8. Do not claim this Program as your own. I've spent since November working on this. It'll really make me agitated. There are 3 Warnings before Commencing a Copyright Strike
-* 9. If You have downloaded the wrong File, No worries. It already has a Automatic Detection Program for your OS. For example: If you've installed the Linux version of RedHydra on your Windows Machine, It'll Detect and automatically download the right version with Wget!
+* 9. If You haven't installed WSL, Scroll down
 * 10. Finally, 3.0 won't be released until the summer.
 Sincerely, badb00m
 
 ## Installation
 ```
-cd C:\Users\USERNAME\DIRECTORY\RedHydraWindows && python Install.py
+cd DIRECTORY/RedHydraWindows && sudo apt install python2 && python2 Install.py
 ```
 * Alternatively:
 ```
