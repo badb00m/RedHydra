@@ -1,4 +1,4 @@
-## Welcome to RedHydra's Official Github Repository
+## Welcome to RedHydra's Official Windows Github Repository
 
 ![redhydra](others/RedHydra2.0.png)
 
