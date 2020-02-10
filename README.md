@@ -18,12 +18,12 @@ Sincerely, badb00m
 
 ## Installation
 ```
-cd DIRECTORY/RedHydraWindows && sudo apt install python2 && python2 Install.py
+cd DIRECTORY/RedHydra && sudo apt install python2 && python2 Install.py
 ```
 * Alternatively:
 ```
 cd DIRECTORY
-cd RedHydraWindows
+cd RedHydra
 python Install.py
 ```
 ## Credits
