@@ -21,7 +21,8 @@ Sincerely, badb00m
 cd C:\Users\USERNAME\DIRECTORY\RedHydraWindows && python Install.py
 ```
 * Alternatively:
-```cd DIRECTORY
+```
+cd DIRECTORY
 cd RedHydraWindows
 python Install.py
 ```
