@@ -18,7 +18,7 @@ Sincerely, badb00m
 
 ## Installation
 ```
-cd DIRECTORY/RedHydra && sudo apt install python2 && python2 Install.py
+cd DIRECTORY/RedHydra && sudo apt upgrade && sudo apt update && sudo apt install python2 && python2 Install.py
 ```
 * Alternatively:
 ```
